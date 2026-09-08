@@ -14,5 +14,8 @@
             "attached": true
         }
     ],
-    "duckdb.defaultDatabase": "prf_2025"
+    "duckdb.defaultDatabase": "prf_2025",
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
 }
